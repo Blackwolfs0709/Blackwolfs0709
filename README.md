@@ -37,3 +37,5 @@ Tenho interesse em **Python, automação, IA aplicada e construção de projetos
 ---
 
 📌 *Este perfil documenta minha evolução contínua em tecnologia.*
+style: adicionar badges e estatísticas ao perfil
+
